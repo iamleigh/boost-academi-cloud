@@ -1,0 +1,11 @@
+#tab_calificaciones .table-header-rotated tbody td {
+	width: 70px !important;
+	min-width: 70px !important;
+	font-size: 13px !important;
+}
+
+#tab_calificaciones .input-calificaciones,
+#tab_calificaciones .bg-master-lighter td,
+#tab_calificaciones .bg-master-lightest td {
+	font-size: 13px !important;
+}
