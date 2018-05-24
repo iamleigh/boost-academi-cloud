@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Boost Academi Cloud",
 	"description": "Esta extensión para Chrome ayuda a corregir algunos problemas de estilos en las páginas de la aplicación web Academi Cloud.",
-	"version": "1.0",
+	"version": "1.0.1",
 	"content_scripts": [{
 		"matches": ["https://americanschool.academi-cloud.net/*"],
 		"css": ["main.css"]
