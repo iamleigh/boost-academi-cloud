@@ -4,7 +4,13 @@
 	font-size: 13px !important;
 }
 
-#tab_calificaciones .input-calificaciones,
+.table.table-striped tbody tr td {
+	vertical-align: middle !important;
+}
+
+.label,
+.input-calificaciones,
+.modal .table tbody tr td,
 #tab_calificaciones .bg-master-lighter td,
 #tab_calificaciones .bg-master-lightest td {
 	font-size: 13px !important;
